@@ -1,3 +1,11 @@
+# Exclude raw data for privacy
+data/*.csv
+
+###############################################################
+# Everything below this point is from GitHub's standard gitignore template for
+# python projects
+###############################################################
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
